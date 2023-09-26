@@ -86,10 +86,9 @@ Welcome to my portfolio! This repository serves as a showcase of my skills, expe
 - Designed responsive UI with Angular Material and Swagger for API integration.
 - Optimized MongoDB queries for performance.
 
+## Favourite Meme
+[meme](https://i.ibb.co/q5J7FY4/music-jokes-gag1839.jpg)
+
 ## Contact
 Feel free to reach out to me via email at [kalahash@mail.gvsu.edu](mailto:kalahash@mail.gvsu.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/haripoorna/). I'm open to collaboration and always excited to work on new projects!
 
-## Meme
-[meme](https://i.ibb.co/q5J7FY4/music-jokes-gag1839.jpg)
-
-Thank you for visiting my portfolio.
